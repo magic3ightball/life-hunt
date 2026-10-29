@@ -1,0 +1,169 @@
+20000 soups, 15s
+40000 soups, 28s
+60000 soups, 40s
+80000 soups, 56s
+100000 soups, 70s
+120000 soups, 85s
+140000 soups, 101s
+160000 soups, 119s
+180000 soups, 134s
+200000 soups, 145s
+220000 soups, 157s
+240000 soups, 169s
+260000 soups, 181s
+280000 soups, 193s
+300000 soups, 206s
+320000 soups, 219s
+340000 soups, 231s
+360000 soups, 242s
+380000 soups, 254s
+400000 soups, 264s
+420000 soups, 275s
+440000 soups, 286s
+460000 soups, 298s
+480000 soups, 309s
+500000 soups, 324s
+520000 soups, 345s
+540000 soups, 367s
+560000 soups, 381s
+580000 soups, 396s
+600000 soups, 408s
+620000 soups, 422s
+640000 soups, 433s
+660000 soups, 446s
+680000 soups, 457s
+700000 soups, 469s
+720000 soups, 480s
+740000 soups, 492s
+760000 soups, 505s
+780000 soups, 517s
+800000 soups, 535s
+820000 soups, 553s
+840000 soups, 568s
+860000 soups, 586s
+880000 soups, 604s
+900000 soups, 621s
+920000 soups, 640s
+940000 soups, 668s
+960000 soups, 686s
+980000 soups, 708s
+1000000 soups, 729s
+1020000 soups, 747s
+1040000 soups, 763s
+1060000 soups, 788s
+1080000 soups, 811s
+1100000 soups, 839s
+1120000 soups, 890s
+1140000 soups, 913s
+1160000 soups, 935s
+1180000 soups, 957s
+1200000 soups, 978s
+1220000 soups, 1004s
+1240000 soups, 1027s
+1260000 soups, 1046s
+1280000 soups, 1068s
+1300000 soups, 1088s
+1320000 soups, 1111s
+1340000 soups, 1132s
+1360000 soups, 1151s
+1380000 soups, 1169s
+1400000 soups, 1190s
+1420000 soups, 1211s
+1440000 soups, 1231s
+1460000 soups, 1255s
+1480000 soups, 1275s
+1500000 soups, 1295s
+1520000 soups, 1313s
+1540000 soups, 1332s
+1560000 soups, 1353s
+1580000 soups, 1374s
+1600000 soups, 1395s
+1620000 soups, 1416s
+1640000 soups, 1438s
+1660000 soups, 1458s
+1680000 soups, 1476s
+1700000 soups, 1494s
+1720000 soups, 1515s
+1740000 soups, 1533s
+1760000 soups, 1552s
+1780000 soups, 1572s
+1800000 soups, 1598s
+1820000 soups, 1618s
+1840000 soups, 1635s
+1860000 soups, 1653s
+1880000 soups, 1681s
+1900000 soups, 1705s
+1920000 soups, 1724s
+1940000 soups, 1744s
+1960000 soups, 1765s
+1980000 soups, 1786s
+2000000 soups, 1805s
+2020000 soups, 1823s
+2040000 soups, 1840s
+2060000 soups, 1858s
+2080000 soups, 1875s
+2100000 soups, 1896s
+2120000 soups, 1912s
+2140000 soups, 1934s
+2160000 soups, 1948s
+2180000 soups, 1965s
+2200000 soups, 1981s
+2220000 soups, 1996s
+2240000 soups, 2011s
+2260000 soups, 2025s
+2280000 soups, 2040s
+2300000 soups, 2055s
+2320000 soups, 2068s
+2340000 soups, 2083s
+2360000 soups, 2101s
+2380000 soups, 2117s
+2400000 soups, 2136s
+2420000 soups, 2152s
+2440000 soups, 2167s
+2460000 soups, 2183s
+2480000 soups, 2197s
+2500000 soups, 2213s
+2520000 soups, 2227s
+2540000 soups, 2242s
+2560000 soups, 2258s
+2580000 soups, 2271s
+2600000 soups, 2287s
+2620000 soups, 2302s
+2640000 soups, 2317s
+2660000 soups, 2333s
+2680000 soups, 2347s
+2700000 soups, 2362s
+2720000 soups, 2378s
+2740000 soups, 2393s
+2760000 soups, 2408s
+2780000 soups, 2423s
+2800000 soups, 2437s
+2820000 soups, 2453s
+2840000 soups, 2464s
+2860000 soups, 2479s
+2880000 soups, 2493s
+2900000 soups, 2508s
+2920000 soups, 2524s
+2940000 soups, 2539s
+2960000 soups, 2552s
+2980000 soups, 2568s
+3000000 soups, 2577s
+census fetch failed https://catagolue.hatsya.com/textcensus/b36s23/C1/xs27
+rule b36s23: 3000000 soups in 2597s, 167 distinct objects
+most common: xs4_33×7899794, xs6_696×3425903, xp2_7×3019800, xs7_2596×1962431, xs5_253×1944173, xq4_153×1637353
+
+RARE (census < 3) or UNSEEN:
+            NEW?  xs12_g8j146z121  https://catagolue.hatsya.com/hashsoup/C1/lifehunt_hl_1020_82439/b36s23
+            NEW?  xs20_32qr0rb8o  https://catagolue.hatsya.com/hashsoup/C1/lifehunt_hl_1020_19621/b36s23
+            NEW?  xp2_111oi6  https://catagolue.hatsya.com/hashsoup/C1/lifehunt_hl_1020_565222/b36s23
+            NEW?  xs13_c4g2596z011  https://catagolue.hatsya.com/hashsoup/C1/lifehunt_hl_1020_564072/b36s23
+            NEW?  xp10_bmzldz63  https://catagolue.hatsya.com/hashsoup/C1/lifehunt_hl_1020_1368188/b36s23
+            NEW?  xs11_g8g39cz11  https://catagolue.hatsya.com/hashsoup/C1/lifehunt_hl_1020_1381850/b36s23
+            NEW?  xs11_o8g39cz01  https://catagolue.hatsya.com/hashsoup/C1/lifehunt_hl_1020_1506153/b36s23
+            NEW?  xs15_0ggm96z12ko  https://catagolue.hatsya.com/hashsoup/C1/lifehunt_hl_1020_1672215/b36s23
+        census 2  xs14_4aq453z32  https://catagolue.hatsya.com/hashsoup/C1/lifehunt_hl_1020_1760836/b36s23
+        census 2  xp2_4apb8ozw3  https://catagolue.hatsya.com/hashsoup/C1/lifehunt_hl_1020_1889837/b36s23
+            NEW?  xs14_330o8br  https://catagolue.hatsya.com/hashsoup/C1/lifehunt_hl_1020_2537738/b36s23
+unclassified: zz_dies×3047, zz_noperiod×2572
+never stabilized (possible guns/puffers): lifehunt_hl_1020_104, lifehunt_hl_1020_129, lifehunt_hl_1020_606, lifehunt_hl_1020_684, lifehunt_hl_1020_1018, lifehunt_hl_1020_1341, lifehunt_hl_1020_1469, lifehunt_hl_1020_1604, lifehunt_hl_1020_1893, lifehunt_hl_1020_1936
+saved ~/Claude_etc/life-hunt/results/b36s23_lifehunt_hl_1020_.json
